@@ -31,3 +31,9 @@ The following measurable objectives have been identified:
 3. Model training: plate detection, character segmentation, character recognition
 4. Model selection: choose a suitable model for the task
 5. Evaluation: make predictions to be compared to validation set
+
+
+File downloads are automated for this notebook so there is no need to manually import (drag and drop) files. The required files are
+automatically downloaded on the notebook from Rome Delmo's Google Drive. This project assumes this notebook is ran on Google Colab.
+
+Dependencies / Software and Environment Details are given at the end of the Jupyter Notebook.
